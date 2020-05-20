@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Application from './app.js';
+import Application from './App.js';
 
 const header = <Application />;
 
